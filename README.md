@@ -10,6 +10,7 @@
 * `git add` - To stage changes to your tracked and untracked files. Use -u, -a, and . strategically.
 * `git commit` - To create a new commit with changes previously added. Use -m and add a meaningful commit message.
 * `git push` - To send changes to your configured remoterepository, most commonly GitLab or GitHub.
+* `git config --get remote.origin.url` - To get only the remote URL.
 
 
 ## **Basic Flow — Daily usage of git, including flags**
